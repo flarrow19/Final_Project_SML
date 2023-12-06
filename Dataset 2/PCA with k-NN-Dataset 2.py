@@ -1,3 +1,7 @@
+"""
+Author: Kunal Malik
+"""
+
 # Importing necessary libraries
 import pandas as pd
 import numpy as np
