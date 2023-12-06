@@ -1,5 +1,5 @@
 """
-@author: Arpit
+Author: Kunal Malik
 """
 
 # Importing necessary libraries
