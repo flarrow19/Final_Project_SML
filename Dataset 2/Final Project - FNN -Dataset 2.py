@@ -1,5 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
+""""
+@author: Arpit
+"""
 
 # Importing necessary libraries
 import pandas as pd
@@ -17,9 +18,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from keras.optimizers import Adam
 from hyperopt import fmin, tpe, hp, STATUS_OK, Trials
-
-# Suppressing warnings for cleaner output
 import warnings
+
 warnings.filterwarnings("ignore")
 
 # Loading the Adult dataset from OpenML
