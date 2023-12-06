@@ -1,6 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
+"""
+Author: Shubham Gade
+"""
 # Importing required libraries
 import pandas as pd
 from sklearn.datasets import fetch_openml
